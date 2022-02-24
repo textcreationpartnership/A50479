@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comfort in death a funeral sermon preach'd upon the death of Mr. Timothy Cruso, late pastor of a church in London, who died Novemb. 26. 1697 / by Matthew Mead.</title>
+            <author>Mead, Matthew, 1630?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50479</idno>
+            <idno type="STC">Wing M1545</idno>
+            <idno type="STC">ESTC R9995</idno>
+            <idno type="EEBO-CITATION">12926896</idno>
+            <idno type="OCLC">ocm 12926896</idno>
+            <idno type="VID">95534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 989:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Comfort in death a funeral sermon preach'd upon the death of Mr. Timothy Cruso, late pastor of a church in London, who died Novemb. 26. 1697 / by Matthew Mead.</title>
+                  <author>Mead, Matthew, 1630?-1699.</author>
+               </titleStmt>
+               <extent>3-34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Budge, for Tho, Parkhurst ... and John Lawrence ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cruso, Timothy, 1656?-1697.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95534:1" rendition="simple:additions"/>
+            <pb facs="tcp:95534:1"/>
+            <p>Comfort in DEATH.</p>
+            <p>A Funeral Sermon PREACH'D Upon the DEATH OF Mr. Timothy Cruſo, LATE PASTOR of a Church in <hi>London,</hi> Who Died <hi>Novemb.</hi> 26. 1697.</p>
+            <p>By <hi>MATTHEW MEAD.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>S. Bridge,</hi> for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide:</hi> And <hi>John Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultry.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95534:2"/>
+            <pb n="5" facs="tcp:95534:2"/>
+            <head>A <hi>Funeral Sermon</hi> On the Death of Mr. Timothy Cruſo.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROMANS viii. II.</hi>
+                  </bibl>
+                  <p>If the Spirit of Him that raiſed up Jeſus from the dead, dwell in you; He that ruiſed up Chriſt from the dead, ſhall al<g ref="char:EOLhyphen"/>ſo quicken your mortal Bodies, by his Spirit that dwelleth in you.</p>
+               </q>
+            </epigraph>
+            <p>IT is the great Privilege and Advantage of all that are United to Chriſt, that however things go with them in this World, it ſhall be ſure to go well with them in the next. The great Care of God is about their Eternal State, that whatever befals them in the Way, they may not miſs of Happineſs in the End; and this Happineſs is aſſerted here Negatively, in <hi>verſe</hi> the firſt. <hi>There is no Condemnation to them that are in Chriſt Jeſus.</hi>
+            </p>
+            <pb n="6" facs="tcp:95534:3"/>
+            <p>NOW this <hi>eleventh verſe,</hi> with the former, is a <hi>Pro<g ref="char:EOLhyphen"/>lepſis,</hi> or a <hi>Pre-occupation</hi> of a ſecret Objection or Doubt, ariſing from the fore-going Aſſertion. The Objection or Doubt is this: How can it be ſaid, <hi>There is no Con<g ref="char:EOLhyphen"/>demnation to them that are in Christ Jeſus,</hi> ſince Death, which is the Fruit of Sin, yet ſeiſes the Godly as well as others?</p>
+            <p>NOW this the Apoſtle makes Anſwer to in this, and the foregoing Verſe, both by way of Conceſſion, and by way of Correction.</p>
+            <p n="1">I. BY way of Conceſſion. <hi>The body is dead becauſe of ſin.</hi> He doth not ſay only it is Mortal, and ſubject to Death; it ſhall and muſt die; but in the <hi>Preſent Tenſe,</hi> (which carries great Emphaſis in it) <hi>the Body is dead;</hi> and he Expreſſeth it thus for Three Reaſons.</p>
+            <p n="1">1. Becauſe of the Divine Determination, <hi>It is ap<g ref="char:EOLhyphen"/>pointed for all men once to die,</hi> Heb. 7.29. And there<g ref="char:EOLhyphen"/>fore the Bodies of Believers are as Mortal, and as ſubject to Death, as other Mens.</p>
+            <p n="2">2. <hi>It is dead,</hi> becauſe Death is begun; Mortality ſeiſes upon us betimes, by the many Infirmities that attack us; how many Deaths do we die daily by <hi>Gout, Stone, Col<g ref="char:EOLhyphen"/>licks, Asthma's, Catarrhs, Fevers,</hi> &amp;c. before Death it ſelf comes to relieve and releaſe us.</p>
+            <p n="3">3. Becauſe of the Ground whereupon it proceeds, and that is Sin. <hi>The body is dead becauſe of ſin.</hi> We do not die as the Beaſts die; Death is not a natural Accident, but a Puniſhment; it is an effect of the Juſtice of God for Sin. <hi>By one man ſin enter'd into the world, and death by ſin,</hi> Rom. 5.12.</p>
+            <pb n="7" facs="tcp:95534:3"/>
+            <p n="2">II. HE Anſwers by way of Correction, oppoſing a double Comfort againſt this dying of the Body.<note place="margin">
+                  <hi>Verſe</hi> 10.</note> 
+               <hi>The Spirit is Life, becauſe of Righteouſneſs.</hi> That is one Com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>BY the Spirit here we are to underſtand the Soul, yet not ſimply and abſolutely conſidered, but as renewed by Grace. So it doth live for the preſent, and it ſhall live for ever.</p>
+            <p>AND mark the ground of the Benefit. <hi>Becauſe of Righteouſneſs.</hi> Becauſe of Imputed Righteouſneſs, which gives us tight to this Life, or becauſe of Inherent Righ<g ref="char:EOLhyphen"/>teouſneſs, which is the beginning of this Life.</p>
+            <p>AND then the other Comfort is in the Text, and that is, <hi>If the Spirit of Him that raiſed up Jeſus front the dead dwell in you, He that raiſed up Christ from the dead, ſhall alſo quicken your mortal Bodies, by his Spirit that dwelleth in you.</hi> The Sum of all is this:</p>
+            <p>IF you are Believers indeed, though your Bodies die, yet your Souls ſhall live, and that for ever; and your Bodies, though they die, yet they ſhall not die out-right, they ſhall not finally periſh, for they ſhall be raiſed again.</p>
+            <p>SO that though Sin infers Death; yet that Death is neither <hi>total,</hi> nor <hi>final.</hi>
+            </p>
+            <p n="1">1. NOT <hi>total,</hi> It is but an half Death, it ſeiſeth only upon the Fleſh. <hi>The Spirit is Life, becauſe of Righ<g ref="char:EOLhyphen"/>teouſneſs.</hi>
+            </p>
+            <p n="2">2. NOT <hi>final.</hi> Death is not ſuch a Night as hath no Morning. It is for a limited time, and then the dead ſhall return again. As the Life of Man is for an appointed time, ſo is his Death too. As Life is a Leaſe, which when a Man hath lived out, then he dies. So Death is a Leaſe too, which when a Man hath died out, then he ſhall Live again.</p>
+            <pb n="8" facs="tcp:95534:4"/>
+            <p>
+               <hi>JOB</hi> calls it a <hi>Set Time,</hi> chap. 14.13. <hi>O that thou wouldſt hide me in the Grave:</hi> But how long would he be hid there? Not for ever; No, but for the <hi>ſet</hi> time, <hi>That thou wouldſt appoint me a</hi> Set Time, <hi>and remember me;</hi> and in v. 14. he calls it an <hi>appointed time, All the days of my</hi> appointed time <hi>will I wait till my change comes.</hi> This Change is not meant here of a Change by Death (as many interpret it) but of a Change by <hi>Riſing</hi> again, as appears by the Context. It is the great Change when we ſhall all be changed (1 <hi>Cor.</hi> 15.51.) when Chriſt <hi>will change our vile Body, that it may be faſhioned like unto his glorious Body.</hi>
+            </p>
+            <p>After this Change we ſhall hear no more of Chang<g ref="char:EOLhyphen"/>ing, for <hi>when this Mortal ſhall have put on Immortality, then Death ſhall be ſwallowed up in Victory,</hi> 1 Cor. 15.54.</p>
+            <p>But how ſhall this Change be brought about? That is Anſwered in the Words of the Text,
+<q>If the Spirit of him that Raiſed up Jeſus from the dead, dwell in you, he that raiſed up chriſt from the dead, ſhall alſo quicken your mortal bodies, by his Spirit that dwelleth in you.</q>
+            </p>
+            <p>In which Words you have Two General Parts.</p>
+            <list>
+               <item>I. A happy Reſurrection Promiſed, <hi>He that raiſed up Chriſt from the dead, ſhall quicken your mortal bodies.</hi>
+               </item>
+               <item>II. The Condition upon which the Promiſe is made, <hi>If the Spirit of him that raiſed up Jeſus from the dead dwell in you.</hi>
+               </item>
+            </list>
+            <p>In the Reſurrection promiſed, you have Two Things.</p>
+            <list>
+               <item>I. The Author of it, or the Efficient Cauſe, and that is <hi>God the Father,</hi> Deſcribed by this <hi>Periphraſis,</hi> or Emi<g ref="char:EOLhyphen"/>nent Work of Power, <hi>He that Raiſed up Jeſus from the Dead.</hi>
+               </item>
+               <pb n="9" facs="tcp:95534:4"/>
+               <item>II. The Way or Manner of bringing it about, and that is, <hi>By his Spirit that Dwelleth in you.</hi>
+               </item>
+            </list>
+            <p>The <hi>Doctrine</hi> that I intend to Inſiſt on, upon this Oc<g ref="char:EOLhyphen"/>caſion is this.</p>
+            <q>
+               <hi>Doct.</hi> That the Bodies of all the Saints ſhall at the the laſt day be quickened, and Raiſed by that Spirit which Dwells in them.</q>
+            <p>I ſhall ſpeak to this under Two Heads.</p>
+            <list>
+               <item>I. That the <hi>Spirit of God</hi> Dwells in the <hi>Children of God.</hi>
+               </item>
+               <item>II. He Dwells in them as a Principle of Reſurrection Power, and is the Ground and Cauſe of their Happy Re<g ref="char:EOLhyphen"/>ſurrection.</item>
+            </list>
+            <p n="1">1. That the <hi>Spirit of God</hi> Dwells in the <hi>Children of God.</hi> This is plain in the Scripture, 1 <hi>Cor.</hi> 3.16. <hi>Know you not that ye are the Temple of God, and that the Spirit of God dwelleth in you.</hi> 2 Tim. 1.14. <hi>That Good Thing which was committed to thee, keep by the Holy Ghoſt which dwells in us.</hi> John 14.17. <hi>The Spirit of Truth, — He Dwel<g ref="char:EOLhyphen"/>leth with you, and ſhall be in you.</hi> So in the Verſe but one before the Text, <hi>If ſo be the Spirit of God dwell in you,</hi> there is no Truth more plainly atteſted in Scripture than the Indwelling of the <hi>Spirit</hi> in Believers. And there are Three Things implyed in the Expreſſion, Preſence, Pow<g ref="char:EOLhyphen"/>er, and Continuance: He <hi>is in</hi> them, He <hi>Rules</hi> in them, and He <hi>Remains</hi> and <hi>Abides</hi> in them.</p>
+            <p n="1">1. It implies a Preſence. There is a Special Preſence of the <hi>Spirit</hi> in every Believer. All Men have a ſhare in His <hi>General</hi> and <hi>Eſſential Preſence; Whither ſhall I go from thy Spirit? Or, Whither ſhall I flee from thy Preſence?</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 139.7.</note> But there is a <hi>Special Preſence</hi> made up of <hi>Grace</hi> and <hi>Favour,</hi> which none ſhare in but Believers, for it is derived to them from <hi>Chriſt</hi> as Head of the Body.</p>
+            <pb n="10" facs="tcp:95534:5"/>
+            <p n="2">2. It implies Power and Activity. Where the <hi>Spirit</hi> is, he is an <hi>Operative Principle.</hi>
+               <note place="margin">Iſa. 30.21. Pſal. 32.8.</note> He Teaches us the Way of Duty, He quickens and ſtirs us up to the Doing of it, He mortifies Sin in us, helps us againſt Temptations, makes the Means of Grace Effectual, <hi>Works all our Works in us, and for us.</hi>
+            </p>
+            <p n="3">3. THIS dwelling of the Spirit in us implies Abi<g ref="char:EOLhyphen"/>ding and Continuance. He is not in them as an <hi>Inmate,</hi> but as an <hi>Inhabitant.</hi> Not as one that truns aſide to tarry for a Night, but as one that takes up his conſtant Reſt. <hi>He dwelleth with you, and ſhall be in you,</hi> John 14.17.— And <hi>ver.</hi> 16. <hi>He ſhall abide with you for ever.</hi> And there is a double ground for this.</p>
+            <p n="1">1. THE unchangeableneſs of his Nature; where He takes up his Abode, it is for ever. <hi>This is my reſt for ever,</hi>
+               <note place="margin">Jam. 1.17. Heb. 13.8.</note> 
+               <hi>here will I dwell,</hi> Pſal. 132.14. There is no ſhadow of Change in Him. <hi>He is yeſterday, and to day, and the ſame for ever.</hi>
+            </p>
+            <p n="2">2. THE Infiniteneſs of his Power; which is ſuch as that none are able to diſpoſſeſs Him. He that can diſ<g ref="char:EOLhyphen"/>poſſeſs all, can be diſpoſſeſſed by none. He is ſtronger than the ſtrong Man, and therefore caſts him out; but there is none ſtronger than the Spirit of God, and there<g ref="char:EOLhyphen"/>fore where He once takes up his Abode, He will never with-draw more.</p>
+            <p>
+               <hi>Q.</hi> BUT how is the Spirit ſaid to dwell in us? that muſt be a little Inquired into, becauſe it is Twice men<g ref="char:EOLhyphen"/>tioned in the Text. <hi>If the Spirit of Him that raiſed up Jeſus from the dead dwell in you,— He ſhall quicken your mortal bodies by his Spirit that dwells in you.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. THE Spirit of the Lord dwells in Believers,
+<pb n="11" facs="tcp:95534:5"/>not only by his Gifts and Graces, but He dwells in them by his Perſon, He is really in them, and united to them. I know it is diſputed by many, whether the Spirit dwells Perſonally in Believers, or whether He dwells in them only by his Gifts and Graces. But to me it ſeems plain; for the Indwelling of the Spirit is one of the greateſt Pro<g ref="char:EOLhyphen"/>miſes of the Covenant of Grace. <hi>Ezek.</hi> 36.27. <hi>I will put my Spirit within you, and cauſe you to walk in my Statutes.</hi>
+            </p>
+            <p>NOW what is that which is called <hi>my Spirit?</hi> it can't be the work of Grace, for that is promiſed in the former Verſe, under the Terms of a new Heart, and a new Spirit. <hi>A new heart will I give you, and a new ſpirit will I put within you.</hi> And then it follows, <hi>And I will put my ſpirit within you. The new ſpirit,</hi> that is the Work of Grace; but this, <hi>my ſpirit,</hi> that is the Spirit of Grace that effects the Work.</p>
+            <p n="2">2. THE Spirit of God dwells in Believers, conſider<g ref="char:EOLhyphen"/>ed in a large and general Senſe, <hi>i.e.</hi> with reſpect to their whole Perſons. For as the whole Man is the Subject of Sanctifying Grace, (1 <hi>Theſſ.</hi> 5.23.) ſo the whole Man is the Habitation of the Spirit of God.</p>
+            <p n="3">3. THE Spirit of God may be ſaid to dwell in Be<g ref="char:EOLhyphen"/>lievers in a more reſtrained Senſe, with reſpect to the Soul, which is the chief Subject of Grace.</p>
+            <p>BUT the dwelling of the Spirit here in the Text, re<g ref="char:EOLhyphen"/>fers to the Bodies of Believers, diſtinct from the Soul; that is, to their Bodies, not whileſt living and united to the Soul, but to their Bodies whileſt dead, and having their Souls ſeparated from them. <hi>He that raiſed up Chriſt from the dead, ſhall quicken your dead bodies, by his ſpirit which dwells in you;</hi> that is, that dwells in you when dead.</p>
+            <pb n="12" facs="tcp:95534:6"/>
+            <p>SO that the Words hold out to us this Truth, That the Bodies of the Saints are the dwelling place of the Holy Ghoſt, even while they are dead and lying in the Grave. And it muſt neceſſarily be ſo.</p>
+            <p>FOR 1. If it were not ſo, then the Relation of God to his People would be either Empty or Changeable, but it is neither. It is not an empty Relation; no, God fills up every Relation as becomes a God.</p>
+            <p>NOR is it a changeable Relation, Death it ſelf hath no Power to break it. Therefore it is ſaid, <hi>when we die we are the Lord's: i.e.</hi> that part of us that dies is his Portion and Right,<note place="margin">Rom. 14.8.</note> as well as that which lives; the dead Body as well as the living Soul.</p>
+            <p n="2">2. If it were not ſo, then our Relation to the Holy Ghoſt as his Temples would ceaſe. For the Scripture calls our Bodies, the Temples of the Holy Ghoſt, 1 <hi>Cor.</hi> 6.19. <hi>Know ye not that your bodies are the temples of the Holy Ghost?</hi> Now either this Relation muſt ceaſe in the Grave; or if not, then theſe Temples muſt ſtand empty, and forſaken of the Spirit; or elſe He muſt ſtill dwell in them, even in the Duſt. They are ſtill appropriated to the Spirit, and muſt be poſſeſſed by Him.</p>
+            <p n="3">3. The Proportion that is between the Perſonal Union and the Myſtical may make out this: For when the God<g ref="char:EOLhyphen"/>head of Chriſt was once United to the Man-hood Perſo<g ref="char:EOLhyphen"/>nally, they were never ſeparated again. When the Body of Chriſt was dead, and in the Grave, the Soul was ſepa<g ref="char:EOLhyphen"/>rated from it, but the Divine Nature was not. So when the Bodies of Believers are lying in the Grave, their Souls are ſeparated from them, but the Spirit of Chriſt is not: As it dwelt in them when they were living, ſo it main<g ref="char:EOLhyphen"/>tains its poſſeſſion and right when the Body lies rotting in the duſt.</p>
+            <p n="4">4. If the Spirit of Chriſt be not in Union with the Fleſh of a Believer in the Grave, then Death is as really a Curſe
+<pb n="13" facs="tcp:95534:6"/>to the Saint as to the Sinner; and as <hi>Solomon</hi> ſays in ano<g ref="char:EOLhyphen"/>ther Senſe, ſo it may be ſaid in this, <hi>As dies the wicked,</hi>
+               <note place="margin">Eccleſ. 2.16.</note> 
+               <hi>ſo dies the righteous.</hi> The wicked dies accurſed, and ſo doth the righteous. For what is the Curſe of Death, but to be ſeparated from the Lord? And if there be no Uni<g ref="char:EOLhyphen"/>on between the Spirit of the Lord, and the dead Body of a Saint in the Duſt, then the Body is under a Curſe; and if ſo, the Believer would be Bleſſed and Curſed at the ſame time; the Soul would be bleſſed, being in Union to the Spirit in Heaven, and the Body at the ſame time Curſed, being ſeparated from the Spirit in the Grave. But how can this be, when the Scripture ſays expreſly, That the dead Saints are bleſſed, <hi>Revel.</hi> 14.13. <hi>Bleſſed are the dead that die in the Lord?</hi> You'll ſay, they are bleſſed, becauſe their Souls are gone to Heaven, and en<g ref="char:EOLhyphen"/>joy God. I, but that is not all, for then it would rather have been ſaid, Bleſſed are the Souls of them that die in the Lord. But pray mind, it is that which dies that hath the Bleſſing affixed to it. <hi>Bleſſed are the dead.</hi> Now the Soul is not dead, that lives; and who knows not, that the Soul that lives in Heaven is bleſſed?</p>
+            <p>But the deſign of the Holy Ghoſt here is to Comfort Believers concerning their bodies when in the Duſt.</p>
+            <p>Doth the Body die? why yet it partakes of a bleſſing in Death. <hi>Bleſſed are the dead.</hi> Nothing of a Saint dies but his Body, why then <hi>Bleſſed are the dead.</hi>
+            </p>
+            <p>And mark how his Right to the Bleſſing accrues, <hi>He dies in the Lord: i. e.</hi> in Union to the Lord; Death makes no ſeparation. And if ſo, then as what Union there was between the Spirit of Chriſt and the Soul of a Saint, remains ſtill; ſo what Union there was between the Body of a Saint, and the Spirit of Chriſt, remains ſtill. <hi>He dies in the Lord.</hi>
+            </p>
+            <p n="5">5. IT muſt be ſo if we do but duly conſider the Sub<g ref="char:EOLhyphen"/>ject of Sanctification, and what is that? Not the <hi>Soul</hi> on<g ref="char:EOLhyphen"/>ly, but the whole <hi>Perſon,</hi> that is, <hi>Body</hi> and <hi>Soul;</hi> it is
+<pb n="14" facs="tcp:95534:7"/>not any one part only that is Stamped with the <hi>Image of God,</hi> but the <hi>Intire Nature</hi> of every Believing Perſon, the whole <hi>Soul,</hi> and the whole <hi>Body.</hi> For <hi>Sanctification</hi> is a Repair of the <hi>Decay</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>pright State</hi> of our <hi>Creation.</hi> Now in the <hi>Firſt Creation,</hi> our whole <hi>Nature</hi> was ſtampt with <hi>God's Image,</hi> not only the Soul, but the Body too was <hi>Intereſted</hi> in the <hi>Image of God,</hi> by a Participation of <hi>Original Righteouſneſs.</hi>
+            </p>
+            <p>AND when Man Sinned, the <hi>Image of God,</hi> ſo far as it was our <hi>Righteouſneſs</hi> and <hi>Holineſs,</hi> was utterly Defaced and Loſt, it departed from our whole <hi>Nature</hi> Body and Soul; and hence the whole Perſon is ſaid to be <hi>Polluted</hi> and <hi>Defiled</hi> by <hi>Sin,</hi> not only all the Powers of the Soul, but all the Members of the Body. (As you may ſee, <hi>Rom.</hi> 3.13, 14, 15. <hi>Rom.</hi> 6.19.)</p>
+            <p>NOW this being the <hi>Caſe</hi> of all Men, therefore our <hi>Sanctification</hi> (which is the <hi>Reparation</hi> of <hi>God's Image</hi>) muſt Reſpect the whole Man equally, and the <hi>Image of God</hi> muſt be ſtamped upon the Body, as well as the Soul; and ſo it is wherever <hi>Sanctification</hi> is wrought.</p>
+            <p>This is Evident from the <hi>Apoſtle's</hi> Prayer,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 1 <hi>Theſſal.</hi> 5.23. <hi>The God of Peace Sanctifie you throughout, i. e.</hi> in your whole Man, for ſo he Explains it in the next words, <hi>in body and ſoul, and ſpirit.</hi> It is not a <hi>Sanctifi<g ref="char:EOLhyphen"/>cation</hi> thoughout, if the Body be not made Holy as well as Soul and Spirit.</p>
+            <p>NOW do but ſee how <hi>Chriſt</hi> Argues about his Lying in the <hi>Grave,</hi> from the Holineſs of his Body, <hi>Pſal.</hi> 16.9, 10. <hi>My Fleſh ſhall reſt in Hope, for thou wilt not leave my Soul in Hell,</hi> (that is, my Body in the Grave) <hi>nor ſuffer thine Holy One to ſee Corruption.</hi> What is meant here by <hi>thy Holy One?</hi> it is meant only of the Body of <hi>Chriſt,</hi> for his Soul was in <hi>Heaven,</hi> nor was that capable of ſeeing <hi>Corruption.</hi>
+            </p>
+            <p>NOW God would not Suffer the Dead Body of <hi>Chriſt</hi> to ſee <hi>Corruption,</hi> and why? Becauſe it was Origi<g ref="char:EOLhyphen"/>nally
+<pb n="15" facs="tcp:95534:7"/>and Perfectly Holy, never Tainted with the leaſt Sin, and therefore ſaw not the leaſt Corruption in the Grave, which elſe it would have done; and which the Bodies of the Saints do.</p>
+            <p>BUT that other Argument of <hi>Chriſt,</hi> is common to all Believers with him; <hi>My Fleſh ſhall Reſt in Hope, for thou wilt not leave my body in the Grave.</hi> And this Not leaving the Body in the Grave, ſpeaks Two Things.</p>
+            <list>
+               <item>I. The <hi>Abiding <g ref="char:V">Ʋ</g>nion</hi> of the <hi>Eternal Spirit</hi> with the <hi>Body.</hi>
+               </item>
+               <item>II. THE <hi>Future Reſurrection</hi> of the <hi>Body,</hi> by the <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> from the <hi>Grave,</hi> and why? Becauſe the <hi>Body</hi> is <hi>God's Holy One.</hi>
+               </item>
+            </list>
+            <p>NOW I would Querie, Whether was the <hi>Spirit of God</hi> ſeparated from the Dead Body of <hi>Chriſt,</hi> or no? That his own Soul was ſeparated from his Body, that is certain, for that he recommends to his Father, <hi>Luke</hi> 23.46. <hi>Father into thy hands I commend my Spirit.</hi> There<g ref="char:EOLhyphen"/>fore it is evident his Soul was ſeparated from his Body; but yet the Spirit of God was not, and the Reaſon was, becauſe in that Covenant that paſſed between the <hi>Father</hi> and the <hi>Son,</hi> the <hi>Father</hi> engaged to take Care of him in Death, and to Raiſe him again to Life: And for this Cauſe, though his Soul was Separated, yet the <hi>Spirit of God</hi> was not, his Holy Body continued in Union to, and under the Special Care of the <hi>Spirit of God</hi> every moment it lay in the Grave, and in the Faith and Comfort of This <hi>Chriſt</hi> died; ſo he tells you, <hi>Therefore my heart is glad, my glory rejoyceth, myfleſh alſo ſhall reſt in hope.</hi> Now mark the <hi>Reaſons</hi> he gives, they are Two-fold.</p>
+            <p>ONE is from His State in <hi>Death.</hi>
+            </p>
+            <p>THE other, is from his Certain Reſtauration to <hi>Life.</hi>
+            </p>
+            <p n="1">I. FROM His State in <hi>Death,</hi> which is a State of U<g ref="char:EOLhyphen"/>nion to the Eternal Spirit, <hi>Thou wilt not leave my body,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Liſheol, <hi>in the Grave.</hi> It is not only meant of his Re<g ref="char:EOLhyphen"/>maining
+<pb n="16" facs="tcp:95534:8"/>there; but of his being left of the Spirit while he was there: <hi>Tho' my Body lye in the Grave, thou wilt not leave me when I am in that ſtate.</hi>
+            </p>
+            <p n="2">II. THE other is from his Certain Reſurrection to <hi>Life,</hi> v. 11. <hi>Thou wilt ſhew me the Path of Life.</hi> Herein he points to the Covenant between <hi>Father</hi> and <hi>Son,</hi> where<g ref="char:EOLhyphen"/>in God promiſes that <hi>He ſhall prolong his Days.</hi> Now, therefore,<note place="margin">
+                  <hi>Iſa.</hi> 53.10.</note> ſays <hi>Chriſt</hi> in the higheſt Conſidence and Aſſu<g ref="char:EOLhyphen"/>rance, <hi>Thou wilt not leave my Body in the Grave.</hi> There is the Union aſſerted. <hi>Thou wilt ſhew me the Path of Life.</hi> There is the Reſurrection ſecured.</p>
+            <p>NOW then, I aſſume the Querie again, Was the <hi>Spi<g ref="char:EOLhyphen"/>rit of God</hi> ſeparated from the Body of Chriſt when Dead in the Grave, or not? If it be ſaid that it was, then it will undeniably follow, That there was a part of Chriſt's Suf<g ref="char:EOLhyphen"/>ferings that was not Meritorious, yea, the greateſt Part, for his Death was the Chief Part of his Sufferings, the Compleating Act; and there could be no Merit in Chriſt's Death, if his Body was not in Union to the <hi>Spirit of God,</hi> for what ſhould give the Value and Virtue to his Death? <hi>That which gave Value and Virtue to his Death, was the Eternal Spirit.</hi>
+            </p>
+            <p>AND if the Dead Body of <hi>Chriſt</hi> was in Union to the Spirit when in the Grave, then ſo muſt the dead bo<g ref="char:EOLhyphen"/>dy of every Believer be alſo; and that upon a Two-fold Account.</p>
+            <p n="1">1. Becauſe every Believer is a Member of Chriſt, Body and Soul are in Memberſhip; and therefore, if the Spirit was in Union to <hi>Chriſt</hi> as Head, ſo it muſt be to the Members alſo, for we have the Spirit from Chriſt, it is in us derivatively from him, as he is the Head of Influence to every Member.</p>
+            <p>I know not how this can be anſwered, but by ſaying, either That the Dead Body of a Saint is not in Member<g ref="char:EOLhyphen"/>ſhip with <hi>Chriſt;</hi> or by ſaying, That though it be in
+<pb n="17" facs="tcp:95534:8"/>Memberſhip, yet it is not in Union to the Spi<g ref="char:EOLhyphen"/>rit.</p>
+            <p>Now as to the Firſt, if the Dead Body of a Believer be not in Memberſhip with <hi>Chriſt,</hi> then the Death of every Believer Maims <hi>Chriſt</hi>'s Myſtical Body; he ſuſtains a Loſs as well as we: And he hath ſaid, <hi>Nothing ſhall be Loſt.</hi>
+            </p>
+            <p>AND as to the Second, if it be ſaid, The Body of a Saint may be in Memberſhip to <hi>Chriſt,</hi> and yet not in Uni<g ref="char:EOLhyphen"/>on to the Spirit, that is Abſurd and Impoſſible, for we are no longer <hi>Chriſt</hi>'s, than as the Spirit of <hi>Chriſt</hi> Dwells in us. It is the Spirit that Unites <hi>Chriſt</hi> and the Saint to<g ref="char:EOLhyphen"/>gether, and he it is that maintains the Union, it holds no longer between <hi>Chriſt</hi> and the Believer than the Spirit dwells in Him, <hi>If any have not the Spirit of Chriſt, he is none of his.</hi>
+            </p>
+            <p>Therefore, either the Spirit muſt maintain a Union to the Dead Body of a Saint, or elſe it cannot be in Union to <hi>Chriſt,</hi> it is none of his, for it is deſtitute of the Spirit.</p>
+            <p n="2">2. The Believer is as really in Covenant with God as Chriſt was; his Soul, as really as the Soul of Chriſt; and his Fleſh, as really as the Fleſh of Chriſt; both are in Covenant; and by this Covenant the Union between the Spirit of God, &amp; the Fleſh of Chriſt remained firm &amp; inviolable: and is there not the ſame reaſon why it ſhould remain ſo between the Spirit of God, and the Fleſh of the Believer? The Spirit would not leave Chriſt when in the Grave, no not for a Moment; and will it leave the Believer when laid there? Where then is his Cove<g ref="char:EOLhyphen"/>nant Faithfulneſs, who hath ſaid, <hi>I will never, never, never leave thee, nor never forſake thee?</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 13.5.</note> The Promiſe is Extenſive to every part, and every ſtate of the Believer. <hi>Never</hi> here, <hi>never</hi> hereafter, <hi>never</hi> in life, <hi>never</hi> in death, <hi>never</hi> in thy Soul, <hi>never</hi> in thy Duſt. So that Death
+<pb n="18" facs="tcp:95534:9"/>can't touch the Union that is between the Spirit and the Saint, neither as to Fleſh nor Soul.</p>
+            <p>Indeed, when Death comes and pulls down this earth<g ref="char:EOLhyphen"/>ly Tabernacle, it forces the Soul out of Doors, and it quits it. But doth it force out the Spirit of God too? Is it ſtronger than He? The Scripture ſays, That <hi>Death ſhall not be able to ſeparate us from the Love of God which is in Chriſt.</hi>
+               <note place="margin">Rom. 8.38, 39.</note> But if the indwelling of the Spirit be loſt while the Body lies in the Grave, then Death can ſeparate us from the Love of God in great part, that is, as to the Body, ſo long as it lies in the Grave. For the Love of God can no way be enjoyed but through Union to the Spirit; and this is the only thing wherein the dead Body of a Believer can be any way capable of receiving Love from God, the preſerving it in the Union of the Spirit to a glorious Reſurrection State.</p>
+            <p>Moſt evident therefore to me it is, that the Union be<g ref="char:EOLhyphen"/>tween the Spirit of Chriſt and a Saint, cannot be broken in any part of it, neither as to Soul nor Body, no not by dying; for if the Spirit of God ſhould be ſeparated from the Body in Death, what a dreadful thing would Death be to a Believer? As to his Fleſh it would be no better than a falling from Grace, and what a ſad Contradiction would that be, that the Soul in death ſhould be receiv'd to Glory, and the Body in the mean time fall from Grace, and this by an Act of God, for Death is God's Act? While the Believer lives, the Spirit of God dwells in Soul and Body both; now if at Death he utterly ſeparates from the Body, then it is fallen from Grace, and that by God's Act only. What a ſad Conſequence is this?</p>
+            <p>I ſay therefore, that the Union between the Spirit of Chriſt and the Body of a Saint, is never broken; no, not in Death: For why more in Death than in Sleep? The Spirit of God dwells in the Body of a Believer when it ſleeps, and yet then it is uncapable of any Act of Com<g ref="char:EOLhyphen"/>munion with Him, uncapable of Service and Obedience,
+<pb n="19" facs="tcp:95534:9"/>Whatever the Soul in that caſe may do, yet the Senſes are locked up, and the Body, as to any Duty, is but as a dead thing. And yet the Body is the Temple of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt when it is aſleep, as really as when awake; and ſo it is when dead as well as when living. And it muſt be ſo, if you conſider but the nature of the Union that is between the Spirit of God and the Believer in thoſe two Eſſential Properties of it, <hi>viz. total</hi> and <hi>indiſſoluble.</hi>
+            </p>
+            <p n="1">1. It is <hi>total,</hi> and of the whole Perſon; the Covenant is made with the whole Perſon, and ſo is the Union that comes by it, with Body and Soul. God owns the Body as really as the Soul; He loves the Body as really as the Soul; He Sanctifies the Body as really as the Soul; He Re<g ref="char:EOLhyphen"/>deems the Body, and will glorifie the Body, as really as the Soul; for the Union is a total Union.</p>
+            <p n="2">2. It is <hi>indiſſoluble,</hi> and can no way be broken off; as it takes in Body and Soul both to make it <hi>total;</hi> ſo it takes them in for ever to make it <hi>indiſſoluble.</hi> The Body is for ever in Union to the Spirit, as well as the Soul, and as really in the Grave, as in Grace or Glory. I pray what elſe is the meaning of Sleeping in Jeſus, 1 <hi>Theſ.</hi> 4.14. <hi>Them that ſleep in Jeſus will God bring with him.</hi> Why are the dead Bodies of Believers called <hi>the dead in Chriſt?</hi> ver. 16. <hi>The dead in Chriſt ſhall riſe firſt.</hi> The Body, tho' dead, yet it is ſaid to be ſtill in Chriſt, becauſe of the indwelling of the Spirit in it.</p>
+            <p>AND ſo much for the firſt thing, That the Spirit of God dwells in Believers: And how He dwells in them, not only in the Soul, but in the body; and not only in Grace, but in the Grave.</p>
+            <p n="2">2. HE dwells in them as a Principle of Reſurrection Power; and this is one great end of the Union he main<g ref="char:EOLhyphen"/>tains with the Duſt of a Saint while in the Grave, that He may raiſe it to Glory at laſt.</p>
+            <p>For as the Reſurrection of every Believer is ſecured by
+<pb n="20" facs="tcp:95534:10"/>the Reſurrection of Chriſt, <hi>Becauſe I live, ye ſhall live al<g ref="char:EOLhyphen"/>ſo.</hi> So the Spiritual Union is the great Foundation upon which it ſtands.<note place="margin">
+                  <hi>John</hi> 19.19.</note> It is one of the great Works of the Spi<g ref="char:EOLhyphen"/>rit of God to Raiſe the <hi>Bodies</hi> of the <hi>Saints</hi> at laſt, and He hath given the higheſt Evidence of it in His Raiſing Chriſt, for this was His peculiar Work.</p>
+            <p>THO' the Reſurrection of Chriſt is aſcribed to each <hi>Perſon</hi> in the <hi>Trinity.</hi> To the <hi>Father, Gal.</hi> 1.1. To the <hi>Son, John</hi> 2.19, 21.<note place="margin">
+                  <hi>Acts</hi> 2.32. <hi>John</hi> 10.17, 18.</note> Yet the peculiar Efficiency in Rai<g ref="char:EOLhyphen"/>ſing Chriſt was from the Spirit. <hi>He was put to Death in the Fleſh, but Quickened by the Spirit,</hi> 1 Pet. 3.18. <hi>De<g ref="char:EOLhyphen"/>clared to be the Son of God with Power, according to the Spi<g ref="char:EOLhyphen"/>rit of Holineſs, by the Reſurrection from the dead,</hi> Rom. 1.4. And this is the ſenſe of that in 1 <hi>Tim.</hi> 3.16. <hi>Juſtified in the Spirit.</hi> How was He Juſtified in the Spirit? Why the Spirit by Raiſing Him from the Dead, did therein de<g ref="char:EOLhyphen"/>clare him acquitted from all the Guilt he was charged with, and all the Reproaches he underwent.</p>
+            <p>NOW as Chriſt aroſe, ſo doth every Believer riſe by the ſame power, and that is, the Power of the Spirit of God, ſo the Apoſtle tells you, 2 <hi>Cor.</hi> 4.14. <hi>He which raiſed up the Lord Jeſus, ſhall raiſe us up alſo by Jeſus.</hi> He dwells as a Principle of Reſurrection Power in every <hi>Be<g ref="char:EOLhyphen"/>liever,</hi> and holds a Union with the Fleſh for that very Purpoſe, that while it is in the Grave He may preſerve it, and at laſt raiſe it again.</p>
+            <p>NOW pray mind the Text again: <hi>If the Spirit of Him that raiſed up Jeſus from the Dead, dwell in you; He that raiſed up Chriſt from the Dead, ſhall alſo quicken your Mortal Bodies by His Spirit that dwells in you.</hi>
+            </p>
+            <p>The Dead Body of a Saint is deſigned for quickening, <hi>.e.</hi> for a Reſurrection to Life. And that is not all, but it is to be conformed to the likeneſs of Chriſts Reſurrection in its quickening: This the Prophet intimates, <hi>Iſa.</hi> 26.19. <hi>Thy Dead Men ſhall Live: Together with my Dead Body ſhall they Ariſe,</hi> So we Read it, but the <hi>Hebrew</hi>
+               <pb n="21" facs="tcp:95534:10"/>is, <hi>Nebelathi jekumun, cadaver meum reſurgent.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Thy dead Men ſhall live: They ſhall ariſc my dead Body.</hi> The Natural body of a <hi>Believer</hi> belongs to the Myſtical Body of <hi>Chriſt;</hi> and ſhall ariſe as a part of his Body; and therefore ſhall ariſe as his Natural Body did. <hi>How is that?</hi> By the Spi<g ref="char:EOLhyphen"/>rit dwelling in him.</p>
+            <p>AND the Spirit is ſaid, in the <hi>Text,</hi> to dwell in the Dead Body of a <hi>Believer</hi> for that purpoſe: <hi>He</hi> ſhall <hi>quic<g ref="char:EOLhyphen"/>ken your Mortal Bodies by His Spirit that dwells in you,</hi> Your Margent reads it, <hi>Becauſe of His Spirit that dwells in you.</hi> And that makes the Thing more plain, <hi>viz.</hi> That the Great Reaſon why the Spirit dwells in the dead bodies of <hi>Believers,</hi> is to be a Reſurrection Principle in them, to raiſe them again to Life. This the words ſpeak out plainly, <hi>He ſhall quicken you becauſe of His Spirit that dwells in you.</hi>
+            </p>
+            <p>SO that a Reſurrection to Glory is made plainly de<g ref="char:EOLhyphen"/>pendant upon the indwelling of the Spirit in ſuch Bodies as ſhall be ſo Raiſed; I don't ſpeak of a Reſurrection ab<g ref="char:EOLhyphen"/>ſolutely and ſimply, but of a <hi>Glorious Reſurrection.</hi> For though the Reſurrection of the <hi>Body,</hi> conſidered in the thing it ſelf, be a buſineſs <hi>Abſolute</hi> and <hi>Determined,</hi> yet the <hi>Reſurrection</hi> to <hi>Glory</hi> (which is the thing intended) is <hi>Conditional,</hi> and not vouchſafed to any, but upon an an<g ref="char:EOLhyphen"/>tecedent Work of Grace wrought in their hearts, where<g ref="char:EOLhyphen"/>by they have the Spirit of the Lord dwelling in their per<g ref="char:EOLhyphen"/>ſons; and hereby he becomes a <hi>Reſurrection-Principle</hi> in the Duſt of a Saint, to quicken his Dead Body to a Glori<g ref="char:EOLhyphen"/>ous Life.</p>
+            <p>Therefore you have a double dwelling of the Spirit mentioned in the Text, <hi>If the Spirit dwell in you, he ſhall quicken your Mortal Bodies by his Spirit that. dwells in you.</hi> There is a <hi>Dwelling in you</hi> to ſanctifie the Perſon of the <hi>Believer,</hi> &amp; then a <hi>dwelling in you</hi> to <hi>raiſe the dead body of the Believer.</hi> So that the Senſe of the Text is this, If the Spi<g ref="char:EOLhyphen"/>rit of God dwell in you now, to Sanctifie your Perſons
+<pb n="22" facs="tcp:95534:11"/>here, the ſame-Spirit ſhall dwell in your Bodies in the Grave, to Raiſe them to Glory hereafter.</p>
+            <div type="conclusions">
+               <p>AND ſo I come to the Application of this Truth.</p>
+               <p>IS it ſo, that the Bodies of all the Saints ſhall at the Laſt Day be Quickened and Raiſed again by the Spirit of God which dwells in them?</p>
+               <p>THEN the <hi>Firſt</hi> USE that I would make of it, ſhall be for <hi>Caution,</hi> and that is, <hi>That you would take heed of ſlighting this Truth, or any other Truth of the Goſpel, be<g ref="char:EOLhyphen"/>cauſe it may ſeem New or Strange. This was the Spirit of the Learned Men of</hi> Athens, <hi>when</hi> Paul <hi>Preached up Jeſus and the Reſurrection:</hi> What New Doctrine is this? ſay they, <hi>for thou bringeſt certain ſtrange things to our Ears,</hi> Acts 17.19, 20.</p>
+               <p>Many are very apt to ſlight Things, though of the Greateſt Weight, becauſe they do not underſtand them, the Line of their Reaſon is too ſhort to Fathom them.</p>
+               <p>Do you think to Ketch the Sea into your Nut-ſhell? Or to take a full Proſpect of the Myſteries of God by the Dim-light of Pur-blind Reaſon? Alas! it can never be, for theſe are Things, the evidence whereof lies in Reve<g ref="char:EOLhyphen"/>lation, and therefore we ought to believe them becauſe God ſays them; and to take comfort in the Truth of them, tho we are not able to ſee the reaſon of them.</p>
+               <p>As we ſhould not undervalue any Truth, becauſe it is common; ſo we ought not to diſown any Truth becauſe it is to us new; but if the Scripture doth confirm it, it is our Duty to believe it. This is a Truth of great Concern; ſo great, that the not believing of it takes away all the comfort of the Grave. For what difference is there be<g ref="char:EOLhyphen"/>tween the Death of a Saint and a Sinner? The one hath no more Priviledge in the Grave than the other; but only in this. <hi>Solomon</hi> ſays, <hi>The righteous hath hope in his death.</hi> This is a hope that ſprings from Chriſt's hope,<note place="margin">Pro. 14.22</note> for he had
+<pb n="23" facs="tcp:95534:11"/>hope in his Death, <hi>my fleſh ſhall reſt in hope</hi>
+                  <note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Pſal. 16.9. &amp; 23.4.</note>, ſhall dwell confidently, <hi>i.e.</hi> confident of its Union, confident of its Reſurrection. This was the confident hope of Chriſt in his Death; and from hence it is that <hi>the righteous hath hope in his Death:</hi> It is the ſame hope Chriſt had. Now take away this Truth, and what hope hath the Righteous in his Death then? He hath hope after Death; but what hope hath he in Death? The Union of the Spirit with the Duſt of a Believer gives hope in Death. <hi>Tho I walk through the Valley of the ſhadow of Death, I will fear no evil, for thou art with me.</hi> Who then would ſlight ſo uſeful, and ſo com<g ref="char:EOLhyphen"/>fortable a Truth as this is, that doth ſo ſweeten Death, and make the Grave ſo eaſie?</p>
+               <p n="2">2. This Truth ſhews us the great diſterence between the Reſurrection of Man and Man, of Saint and Sinner; tho all ſhall riſe, yet they ſhall not riſe alike. Some ſhall have <hi>a better Reſurrection</hi> than others ſhall; there is a <hi>Re<g ref="char:EOLhyphen"/>ſurrection both of the Juſt and the <g ref="char:V">Ʋ</g>njuſt,</hi> Acts 24.15.<note place="margin">He. 11.35.</note> There is a Reſurrection that ends in Miſery, and a Reſurrection that runs into Glory. <hi>Daniel</hi> calls the one an <hi>awaking to everlaſting life;</hi> and the other, a <hi>waking to ſhame and con<g ref="char:EOLhyphen"/>tempt.</hi>
+                  <note place="margin">Dan. 12.2.</note> And Chriſt calls the one, <hi>the Reſurrection of Life;</hi> and the other,<note place="margin">Joh. 5.29.</note> the <hi>Reſurrection of Damnation.</hi> There<g ref="char:EOLhyphen"/>fore there is a great difference between the one and the other: And it will appear in Four Things.</p>
+               <p n="1">I. THE Reſurrection of the Believer is Founded in the Covenant of Grace; And what is the Tenour of that Covenant? It is, <hi>That God will be our God for ever.</hi> Now this Covenant is not made with the Soul of a Be<g ref="char:EOLhyphen"/>liever only, but with the Perſon, Soul and Body; and therefore from this Covenant our Lord proves the Reſur<g ref="char:EOLhyphen"/>rection againſt thoſe <hi>Sadducees, Matth.</hi> 22.32. <hi>I am the God of Abraham, the God of Iſaac, and the God of Jacob, God is not the God of the dead, but of the living.</hi> The Ar<g ref="char:EOLhyphen"/>gument, like a Two-edged Sword, cuts both ways, it proves the Immortality of the Soul, in that God is ſaid
+<pb n="24" facs="tcp:95534:12"/>to be <hi>the God of the living:</hi> And it proves the Reſurre<g ref="char:EOLhyphen"/>ction of the Body, in that God is ſaid to be <hi>the God of Abraham.</hi> And therefore not the God of his Soul on<g ref="char:EOLhyphen"/>ly, but of his Perſon, Soul and Body; therefore whole <hi>Abraham</hi> muſt live for ever, becauſe of the everlaſting Co<g ref="char:EOLhyphen"/>venant of God. He is thy God as much when thou art dead in the Grave, as when thou art aſleep in thy Bed, becauſe of the Covenant which cannot be diſſolved; and if he dies in Covenant, he ſhall riſe in Covenant.</p>
+               <p>NOW it is not thus with Unbelievers; they ariſe too, but not by virtue of any New Covenant Intereſt. They lived out of this Covenant while they lived, and died out of this Covenant when they died; and they ſhall riſe out of this. Covenant when they riſe again. And that is a ſad difference; as much as is between Heaven and Hell.</p>
+               <p n="2">II. THE Body of the Saints riſe by Virtue of their Union to Chriſt. He is the Head, and they the Mem<g ref="char:EOLhyphen"/>bers. This Oneneſs is the great Foundation upon which the Saints Reſurrection ſtands; if the Head be riſen, the Members cannot always lie rotting in the Grave. As the Effect is bound up in the Cauſe, ſo is the Reſurrec<g ref="char:EOLhyphen"/>tion of the Believer in the Reſurrection of Chriſt. <hi>Be<g ref="char:EOLhyphen"/>cauſe I live,</hi>
+                  <note place="margin">Joh. 14.19</note> 
+                  <hi>ye ſhall live alſo.</hi>
+               </p>
+               <p>BUT the Wicked don't riſe by virtue of Union to Chriſt, and therefore the Life and Power of his Reſur<g ref="char:EOLhyphen"/>rection doth not animate and quicken them. No, they riſe by the Power of Chriſt, as Lord of the Dead, but not by virtue of Union to Chriſt. They riſe by the Power of Chriſt as Judge, but not by the advantage of his Mediation.</p>
+               <p n="3">III. THE Bodys of the Saints ariſe as a part of the Harveſt belonging to Chriſt, as he was a Firſt-Fruits in his Reſurrection. So he is called, 1 <hi>Cor.</hi> 15.20. <hi>Now is Chriſt riſen from the dead, and become the firſt fruits of them that ſleep.</hi> But to whom is Chriſt a Firſt-Fruits? to all? No, but only to Believers. Under the Law the
+<pb n="25" facs="tcp:95534:12"/>Firſt-Fruits were offer'd to God for the ſanctifying and bleſſing the whole Harveſt; and as the Firſt-Fruits are, ſo is all the reſt, <hi>if the firſt-fruits be holy, the lump is holy.</hi>
+                  <note place="margin">Ro. 11.16.</note> If the Firſt-Fruits be ſafe, not a Shock, nor a Sheaf, nor an Ear, nay, not a Grain ſhall be loſt. So our Lord Chriſt teſtifies, <hi>This is the Fathers will which hath ſent me, that of all which he hath given me I ſhould loſe no<g ref="char:EOLhyphen"/>thing, but ſhould raiſe it up again at the laſt day.</hi>
+                  <note place="margin">Joh. 6.39.</note> Belie<g ref="char:EOLhyphen"/>vers ariſe then as a part of that Harveſt of which Chriſt is a Firſt-Fruits. But Sinners do not ariſe thus. Chriſt is no Firſt-Fruits to them. Tho the Firſt-Fruits bleſs the Corn, yet it don't bleſs the Tares, and Cockle, and Weeds that grow among the Corn. You know what their Sentence is, <hi>Matt.</hi> 13.30. <hi>Gather together the Tares, and bind them in bundles to burn them.</hi> And this is a ſad Difference.</p>
+               <p n="4">IV. BELIEVERS ariſe by a Power <hi>within</hi> them; the Wicked ariſe by a Power <hi>upon</hi> them. The Spirit of Chriſt dwells in every Believer as a Principle of Re<g ref="char:EOLhyphen"/>ſurrection Power, and by virtue of this Power they riſe again. But the Wicked riſe not by virtue of the Spirit of Chriſt in them, but by the Power of Chriſt upon them, as he is the Lord of Death, and the Judge of the World.</p>
+               <p>O! HOW great is the difference between the Re<g ref="char:EOLhyphen"/>ſurrection of Saints and Sinners! Believers ſhall riſe perfect from all Sin. The Wicked ſhall riſe loaded with all their Sins and Luſts. Believers will riſe, like <hi>Pha<g ref="char:EOLhyphen"/>raoh's Butler,</hi> to great Exaltation, and the Wicked, like the <hi>Baker,</hi> to be Sentenced to Execution. Believers riſe to be gathered as Wheat into the Garner, the Wicked as <hi>Chaff</hi> for the unquenchable Fire.</p>
+               <p n="3">3. Let us labour to make a due Improvement of this Truth, eſpecially in Four Things.</p>
+               <p n="1">I. Admire the condeſcending Love of the Spirit of God in this Work, for it is truly admirable. To take our Bodies for his Temple while they are living; to
+<pb n="26" facs="tcp:95534:13"/>dwell in them, and that perſonally, this is great conde<g ref="char:EOLhyphen"/>ſcention: But that he ſhould own them when dead, and continue his Union to our Fleſh, when our own Soul hath forſaken it, and abide with it in Duſt and Rotten<g ref="char:EOLhyphen"/>neſs. O, What amazing Love is this!</p>
+               <p>Don't let us ſlight this Truth therefore, but admire it. For it is the greateſt condeſcention of the Spirit that we read of in all the Scriptures. O! How much doth it make for the Honour and Dignity of Believers, that he whom the <hi>Heaven of Heavens cannot contain,</hi> ſhould vouchſafe to take up his Reſidence in our fleſh. Had it been in our Souls only, that had been great condeſcention, but not like this; for the Soul is of a more excellent Na<g ref="char:EOLhyphen"/>ture than the Fleſh. But he dwells in our Fleſh, and not only ſo long as we live, but in Death too, and holds his Union with it through the whole courſe of the Grave, from the firſt Moment of Diſſolution, to the bleſſed Day of our Reſurrection. O what condeſcention is this!</p>
+               <p n="2">II. Improve this Truth by getting an Intereſt in Jeſus Chriſt. Here is a double Motive to inforce it, in this and the foregoing Truth. The Intereſt both of Soul and Body is concerned in it. Here is a Motive from the Soul, it ſe<g ref="char:EOLhyphen"/>cures the life of that, tho the Body dies, <hi>v.</hi> 10. <hi>If Chriſt be in you, the body dies, becauſe of ſin, but the Spirit lives be<g ref="char:EOLhyphen"/>cauſe of Righteouſneſs;</hi> And then here is a Motive from the Body too, tho it dies, yet it dies in Union to the Spi<g ref="char:EOLhyphen"/>rit, who will quicken it again, <hi>He ſhall quicken your mortal bodies, by his Spirit that dwells in you.</hi> Therefore, <hi>Bleſſed are the dead that die in the Lord.</hi>
+               </p>
+               <p n="3">III. Improve this Truth with reſpect to the Spirit of God, (1.) By begging and praying for the Spirit to dwell in you now as a Principle of Sanctification, or elſe he will neve 'dwell in you as a Principle of the Reſurrection. If your Bodies be not his Temples now; if he doth not dwell in them, and purge them from filthineſs, and pre<g ref="char:EOLhyphen"/>pare them for Glory here, he'll never raiſe them at the laſt day, and then better never riſe again.</p>
+               <pb n="27" facs="tcp:95534:13"/>
+               <p>I tell you, meerly to Riſe from the Dead is no Priviledge, no, <hi>Judas,</hi> and <hi>Herod,</hi> and <hi>Pilate,</hi> ſhall riſe again, and <hi>Cain</hi> that ſlew his Brother; and ſo ſhall <hi>Gardner,</hi> and bloody <hi>Bonner,</hi> all the <hi>Wicked</hi> that dyed in their Sins ſhall riſe again; but alas! it will be a Dreadful Riſing, <hi>Daniel</hi> ſays,<note place="margin">Dan. 12.2.</note> 
+                  <hi>ſome ſhall riſe to ſhame and everlaſting Contempt.</hi>
+                  <note place="margin">John 5.29.</note> And Chriſt ſpeaks of a <hi>Reſurrection to Damnation.</hi> And were it not better that the body ſhould lye and Rot in the Duſt for ever, then to riſe from the Grave to be thrown into <hi>Hell,</hi> and made Fuel to feed the Fire that never goes out? yet this ſhall be the lot of all the Wicked; they riſe by the Power of Chriſt, that they may be Damned by the Wrath of Chriſt.</p>
+               <p>I ſay therefore, to Riſe again may be no Priviledge, but a Judgment and a Curſe; the Priviledge lies in Riſing again by the Spirits power quickening your dead bodies. This is a Pri<g ref="char:EOLhyphen"/>viledge indeed, for here begins the Glory and Salvation of your bodies, therefore it is called a <hi>Reſurrection to Life Ever<g ref="char:EOLhyphen"/>laſting,</hi>
+                  <note place="margin">Dan. 12.2.</note> and hereby your Bleſſedneſs comes to be made perfect, for though your Souls are Glorified with God at Death, yet they are not compleat in Glory till the Reſurrection.</p>
+               <p n="2">II. CARRY your ſelves Worthily to the Spirit of God, for he dwells in you, he dwells in the ſoul, he dwells in the body, and he dwells in both for ever. Therefore carry it be<g ref="char:EOLhyphen"/>comingly to him.</p>
+               <list>
+                  <item>1. BY following his Leadings, living and walking in the Spirit. <hi>If we believe in the Spirit, let us walk in the Spirit.</hi>
+                     <note place="margin">Gal. 6.25</note>
+                  </item>
+                  <item>2. BY fetching our Comforts from the upper Springs, we are too ſenſual in our Reſpects and Aims; we conſult the ani<g ref="char:EOLhyphen"/>mal Life more than is meet, while we fetch our Refreſhment and Satisfaction from any of theſe Nether Springs. Are not Spiritual Pleaſures more Noble and Sweet than Bodily? Sure they are, or elſe we muſt ſay, that Senſual Men have more Pleaſure and Joy in their Life, then God hath in his.</item>
+                  <item>3. BY Avoiding every Thing that may Grieve the Spirit.</item>
+               </list>
+               <p>WHEN you neglect Duty you Grieve the Spirit.</p>
+               <p>WHEN you don't keep your Gifts and Graces in Conti<g ref="char:EOLhyphen"/>nual Exerciſe, you Grieve the Spirit.</p>
+               <pb n="28" facs="tcp:95534:14"/>
+               <p>WHEN you ſuffer Spiritual Slumber to ſeize upon you, you Grieve the Spirit.</p>
+               <p>WHEN you Indulge Fleſhly Luſts, and yield your Members to be Inſtruments of Sin, you Grieve the Spirit; for you defile the Temple which the Holy Ghoſt hath taken up to dwell in, and will hold in a Union to himſelf when it lies in Duſt and Rottenneſs, and will raiſe it to Glory at the laſt.</p>
+               <p n="4">IV. LET us improve this Truth for Comfort, it hath in it that which is matter of Great Comfort.</p>
+               <list>
+                  <item>1. AGAINST all preſent Sufferings &amp; Afflictions. What can Sweeten the Bitterneſs of any Cup, and lighten heavy Bur<g ref="char:EOLhyphen"/>thens, and make preſent Diſtreſſes eaſie, and ſupport in all Ca<g ref="char:EOLhyphen"/>lamities, like <hi>Faith</hi> in a <hi>Reſurrection?</hi> There is a Reſurrection State will Free us from All,<note place="margin">2 Cor. 4.17.</note> and in the mean time, <hi>Our light Afflictions, which are but for a moment, work for us a far more Exceeding and Eternal Weight of Glory.</hi>
+                  </item>
+                  <item>2. IT is a great Comfort under the loſs of the Faithful Mi<g ref="char:EOLhyphen"/>niſters of Chriſt, &amp; of Godly Relations &amp; Friends, for they are not loſt for ever; the Spirit of God hath the care of them, and he'll quicken them again, and therefore we may ſay with <hi>Mar<g ref="char:EOLhyphen"/>tha</hi> when her Brother was dead,<note place="margin">Matt. 11.14.</note> 
+                     <hi>I know that he ſhall Riſe again at the Reſurrection.</hi> You ſhall ſee them again, and know them again, and enjoy them again, and that in a better manner than ever, And is not this Comfort?</item>
+                  <item>3. IT is a great Comfort againſt our own Diſſolution, the thing which Nature ſo much abhors; the Horrour of a Grave is very Affrighting and Dreadful to many. That this Fleſh of mine, this tender Fleſh, this delicate Fleſh, that now the Wind muſt ſcarce blow on, that I ſpend ſo much precious time to feed, and pamper, and dreſs, and adorn, that this very Fleſh muſt be turned to Stench and Corruption, and become loathſome to my Deareſts Friends, and be Proſtituted to Worms and Rottenneſs, this makes the very thoughts of Death a Diſeaſe.</item>
+               </list>
+               <p>NOW how would the Belief of this Truth relieve &amp; Com<g ref="char:EOLhyphen"/>fort againſt ſuch Thoughts as theſe.<note place="margin">Revel. 14.13. 1 Theſ. 4.14.</note> If I Dye, <hi>I Dye in the Lord;</hi> Death is but a Sleep, and <hi>I Sleep in Jeſus</hi> too, when my
+<pb n="29" facs="tcp:95534:14"/>my Body is laid in the Grave, it is laid into the arms of the Spirit; if it doth rot in the Duſt, its Union to the Spirit can't rot. And therefore, farewel my Fleſh; While I go into the immediate bleſsful Preſence of God, go thou to Bed in the Duſt, I commit thee into the Arms of the Spirit, and do wil<g ref="char:EOLhyphen"/>lingly leave thee in that Union, till he ſees good to raiſe thee, and bring us together again; For this he will do in the Laſt Day: And therefore, <hi>Go my Fleſh, and reſt and hope,</hi>
+                  <note place="margin">Joh. 6.4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>and wait the appointed time till thy change comes,</hi> for then <hi>this corruptible ſhall put on incorruption, and this mortal ſhall put on immortality,</hi>
+                  <note place="margin">1 Cor. 1 53.</note> 
+                  <hi>and Death ſhall be ſwallowed up of Life.</hi>
+               </p>
+               <p>IN this Faith you may triumph over the Grave, you may reſign your Bodies to the Earth chearfully, and to the Guardi<g ref="char:EOLhyphen"/>anſhip of the Spirit of God there, for he who hath it in an in<g ref="char:EOLhyphen"/>diſſoluble Union, will preſerve it to a glorious Reſurrection, as he did the dead Body of Chriſt;<note place="margin">Pſal. 1 10.11.</note> for he did not leave it in the Grave, but <hi>ſhewed it the path of life.</hi>
+               </p>
+               <p>HOW willing to die ſhould this make every Believer, and to ſay with the Apoſtle, <hi>I deſire to be diſſolved.</hi> And yet Alas!<note place="margin">Philip. 23.</note> what Cowards are we! How fearful are we of dying? You may as well be afraid of going to Bed. Let them be afraid to die, that never knew how to live; that are dead whilſt they live, and that have no hope after this life. He that hears of the Glory of a Reſurrection-State, and yet is afraid to die, either he hath but a little Faith, or he hath an ill Conſcience.</p>
+               <p>WHAT was it that revived and ſupported <hi>Job</hi>'s Spirit amidſt all his Griefs, but this very thing? <hi>I know that my Re<g ref="char:EOLhyphen"/>deemer lives, and that he ſhall ſtand at the latter day upon the Earth, and tho after my Skin Worms deſtroy this body,</hi>
+                  <note place="margin">Job 19.2 26, 27.</note> 
+                  <hi>yet in my fleſh ſhall I ſee God; whom I ſhall ſee for my ſelf.</hi> This was ſuch a reviving to his Soul, that you never find him in his impati<g ref="char:EOLhyphen"/>ent, deſpairing Fits after it.<note place="margin">Pool Loc.</note>
+               </p>
+               <p>I beg of God therefore, that when-ever I die, I may die in this Faith, <hi>That my Soul ſhall immediately enter into the full frui<g ref="char:EOLhyphen"/>tion of God, And, That my Body ſhall lie down in the Duſt, in an everlasting <g ref="char:V">Ʋ</g>nion to the Sprit of God, who will at last quicken-it,</hi> becauſe he dwells in it. <hi>For if the Spirit of him that raiſed Je<g ref="char:EOLhyphen"/>ſus
+<pb n="30" facs="tcp:95534:15"/>from the dead, dwell in us, he that raiſed up Chriſt from the dead,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Theſ. 4.18.</note> 
+                  <hi>ſhall alſo quicken our mortal bodies, by his Spirit that dwell<g ref="char:EOLhyphen"/>eth in us. Wherefore comfort ye one another with theſe words.</hi>
+               </p>
+               <p>I KNOW you expect that I ſhould ſay ſomething of the Perſon Deceaſed, and not paſs him by in ſilence. But I ac<g ref="char:EOLhyphen"/>knowledge my ſelf to be very unfit for this Province; it being a Work I rarely engage in; as having no Authority to take the Commiſſion out of the hand of his own Works;<note place="margin">Grov. 31. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lt.</note> They are to <hi>praiſe him in the Gates,</hi> and not I.</p>
+               <p>And yet it is not fit, When every mean Virtue in others hath its <hi>Funeral Trumpet,</hi> that ſo much Excelling Worth as was in him ſhould be forgotten, and the Memory of it buried with him. Should I ſpeak of his Carriage and Behaviour in the various Relations he ſtood in,</p>
+               <p>As a <hi>Son</hi> to his ſurviving Mother.</p>
+               <p>As a <hi>Husband</hi> to his Wife.</p>
+               <p>As a <hi>Father,</hi> while he had Children.</p>
+               <p>As a <hi>Maſter</hi> to Servants.</p>
+               <p>As a <hi>Friend</hi> to his Friend.</p>
+               <p>I might herein propound him as a Pattern to many, for he excelled moſt. And that is a Good Man indeed, who is good in all Relations.</p>
+               <p>BUT his Great and Chief Care was to fill up his Relation to God in Chriſt, and that not only as a <hi>Chriſtian</hi> and a <hi>Belie<g ref="char:EOLhyphen"/>ver,</hi> but as a <hi>Miniſter</hi> of Chriſt, and a <hi>Paſtor</hi> to that Flock which the <hi>Holy Ghoſt</hi> had committed to his Charge. I muſt ſay, God had fitted him for this Work &amp; Service above many of his <hi>Brethren,</hi> in betruſting him with ſuch Gifts and Ta<g ref="char:EOLhyphen"/>lents as but very few have received.</p>
+               <p>AND how Diligent and Faithful was he in laying them out, and ſo improving them in his Maſter's Service? How Zealous was he for Chriſt! How Laborious in his Work! how ſound in the Faith! How great in Prayer! How apt to Teach! And how All was Crowned with Succeſs, is Evident in the many Comfortable Seals which God gave to his Miniſtry a<g ref="char:EOLhyphen"/>mong you.</p>
+               <pb n="31" facs="tcp:95534:15"/>
+               <p>AND tho' his Natural Parts were great, and made much greater by the Bleſſing of God upon his Unwearied Induſtry; yet that he neither Leaned upon them, nor Truſted to them, appeared by his conſtant Labour and Study for every <hi>Sermon.</hi>
+               </p>
+               <p>THEY that were <hi>Diſcerning Chriſtians,</hi> and did Wiſely Ob<g ref="char:EOLhyphen"/>ſerve the ſuitable Matter he prepared, the exact Method in which it was ordered, the taking Dreſs with which it was clothed; the Charming Manner in which it was uttered, could not but ſay, That he did not offer to God that which coſt him nothing.</p>
+               <p>His great Delight was in his Work, for he knew how well it becomes a Diſciple <hi>to be as his Lord,</hi> whoſe Delight was to do the Will of God. And therefore he was <hi>fervent in Spirit, ſerving the Lord.</hi> And this made him willing to ſpend,<note place="margin">Rom. 12 11.</note> and to be ſpent, till by degrees he waſted and conſumed himſelf.</p>
+               <p>I would have ſaid no more of him, were it not to Obviate ſome <hi>Falſe</hi> and <hi>Malicious Whiſpers;</hi> as if he Dyed in great Darkneſs, and under much Trouble of Conſcience.</p>
+               <p>I was with him the day before he Dyed, and among other things, I asked him, How it was with him concerning his Spiritual State. He told me, <hi>That he had a Firm Confidence of Hope in the Infinite Righteouſneſs of Jeſus Chriſt.</hi>
+               </p>
+               <p>I then asked him (and deſired that he would be as Plain with me, as I deſired to be Faithful to him) If there was any particular Thing that lay as a burden upon his Conſcience.</p>
+               <p>HE replied, <hi>No,</hi> he bleſſed God, <hi>there was not. But that which Troubled him in general was, That in the Courſe of his Mi<g ref="char:EOLhyphen"/>niſtry he had not Honoured God as he ought to have done; nor had he been ſo Faithful to the Souls of Men as he ſhould have been: But yet in this he could appeal to God, that whatever By-Ends might come in, and mingle themſelves, which he Renounced, yet the Glory of God in the Converſion and Salvation of Souls was the great End he Aimed at in the whole Courſe of his Miniſtry. And</hi> Bleſſed is that Servant whom his Lord when he comes ſhall find ſo doing.</p>
+               <pb n="32" facs="tcp:95534:16"/>
+               <p>What I have elſe to ſay, is to you that were his Flock, over which the Holy Ghoſt made him Overſeer, but are now as Sheep without a Shepherd.</p>
+               <p n="1">1. Labour to be Truly Senſible of your <hi>LOSS,</hi> and let it be deeply laid to heart, for it is a Great, a very <hi>Great Loſs;</hi> it is ſo to the whole Church of God, but it is ſo more parti<g ref="char:EOLhyphen"/>cularly to you, eſpecially if the Circumſtances of it be conſi<g ref="char:EOLhyphen"/>dered, for the Lord hath taken him from you in the midſt of his Days, and in the Prime of his Miniſtry. And God hath not done this without a Cauſe, and therefore you ſhould eve<g ref="char:EOLhyphen"/>ry one reflect upon himſelf, <hi>What have I done? Wherein have I offended God? Have not my Sins, my Barrenneſs, my <g ref="char:V">Ʋ</g>npro<g ref="char:EOLhyphen"/>fitableneſs under his Miniſtry provoked God to take him away?</hi> as that good Woman ſaid, when ſhe heard that the Miniſter of the Place had broke his Leg, <hi>Oh!</hi> ſaid ſhe, <hi>My Sins have broken my Miniſters Leg.</hi>
+               </p>
+               <p n="2">2. Remember, and keep in mind the Seaſonable Counſel he gave you, not only from the Pulpit, but from the Preſs too, by which, <hi>though he it Dead, he yet Speaketh;</hi> Lay them up in your hearts, and Practice them in your Lives. Let me tell you, that God expects much Fruit from you after ſuch a Sower, and ſuch a Seeds-time as you have had. Tho' you ſhall never hear him Preach more, yet what he hath Preached you ſhall hear of again. Not one Sermon that ever he delive<g ref="char:EOLhyphen"/>red from <hi>this</hi> Pulpit, but you muſt Account for it in the Day of Judgment, and it will be a Dreadful Account now that <hi>The Bellows are burnt, and the Lead is conſumed of the Fire, if the Founder hath Melted in vain.</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er. 6.29.</note>
+               </p>
+               <p>AND therefore,</p>
+               <p n="3">3. IMPROVE this <hi>Providence,</hi> this <hi>Sad</hi> and <hi>Severe Providence.</hi> If you have hitherto turned a Deaf-Ear to the Word of God, yet now <hi>Hear the Rod of God,</hi> what that ſpeaks; for it ſpeaks aloud. When ſo many Faithful Miniſters, Emi<g ref="char:EOLhyphen"/>nent Servants of Chriſt, are taken away in a few Months,
+<pb n="33" facs="tcp:95534:16"/>
+                  <note n="*" place="margin">Dr. <hi>An<g ref="char:EOLhyphen"/>neſly,</hi> Mr. <hi>Oldfield,</hi> Mr. <hi>Vin<g ref="char:EOLhyphen"/>cent,</hi> Mr. <hi>Mather,</hi> Mr. <hi>Cole,</hi> and now your Pa<g ref="char:EOLhyphen"/>ſtour, and ſince him Mr. <hi>Day.</hi>
+                  </note> This is a Crying Voice, it crys to this City, it crys to this Place. <hi>And what doth it ſay?</hi>
+               </p>
+               <p>IT ſays, That the <hi>Prophets</hi> don't Live for ever: That they have their Heavenly Treaſure but in Earthen Veſſels. That the Lamps are within the Pitchers, and when the Pitchers break, the Lamps go out, and therefore <hi>Walk while ye have the Light, leſt Darkneſs come upon you.</hi>
+               </p>
+               <p>IT ſays that, When the Means of Grace are Undervalued.</p>
+               <p>WHEN the Loud Calls of God are Slighted.</p>
+               <p>WHEN the Great Truths of the Goſpel are Corruped</p>
+               <p>WHEN <hi>Deiſm</hi> in Contempt of the Son of God is Coun<g ref="char:EOLhyphen"/>tenanced.</p>
+               <p>WHEN all Revealed Religion is Diſowned, and there<g ref="char:EOLhyphen"/>by the Goſpel of Chriſt, and the Ordinances of Chriſt, and the Miniſtry of Chriſt rendered Vain and Uſeleſs, Then God will ſoon Remove them. This is what the Rod ſays.</p>
+               <p>NAY, It ſays, That unleſs we are Awakened and Refor<g ref="char:EOLhyphen"/>med by theſe Judgments, God will yet bring greater. If there be not a ſpeedy Repentance and Returning to God from all theſe Abominations, he who hath put out ſo many of our Lights, will put out all; and and not only put out the Lights, but remove the Candleſticks, nay,<note place="margin">Hof. 1.9</note> Write <hi>a Lo-ammi</hi> againſt us, and ſay, <hi>Ye are not my People, and will not be your God.</hi>
+               </p>
+               <p>THE Lord Teach us therefore, now His Voice crys ſo loud to the City, to <hi>Hear the Rod, and who hath appoint<g ref="char:EOLhyphen"/>ed it.</hi>
+               </p>
+               <p n="4">4. BE Earneſt in Prayer to God to make up to you this Great LOSS; for He only can do it,<note place="margin">Eph. 9.11</note> 
+                  <hi>Faithful Paſtours are a peculiar Gift of the Lord Chriſt,</hi> and they are a Gift that comes under a Promiſe,<note place="margin">Jer. 3.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>I will give you Paſtours according to mine own heart, which ſhall feed you with Knowledge and <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding.</hi>
+               </p>
+               <p>Go away and plead this Promiſe with God, Pray in Secret, in Private, in Publick, let each one make it his Duty, let the whole Church make it their Duty.</p>
+               <pb n="34" facs="tcp:95534:17"/>
+               <p>Set ſome time a-part to meet together and Pray, that he that hath in Judgment made this Breach, would in Mercy make it up, That He who hath took away <hi>Elijah</hi> to Heaven, would ſend an <hi>Eliſha</hi> to ſucced him.</p>
+               <p>This is the Mercy and Bleſſing which you now Want, and none can Supply this Want but that God who <hi>hath the Reſi<g ref="char:EOLhyphen"/>due of the Spirit;</hi> Therefore cry to Him in the Words of Dy<g ref="char:EOLhyphen"/>ing <hi>Moſes, Numb.</hi> 27.16, 17. <hi>Let the Lord, the God of the Spirits of all Fleſh, ſet a Man over the Congregation, which may go out before them, and which may go in before them, and which may lead them out, and bring them in, that the Congregation of the Lord be not as Sheep which have no Shepherd.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>BOOKS Written by the Reverend Mr. <hi>Mead,</hi> Sold by <hi>Thomas Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheap-ſide.</hi>
+            </head>
+            <p>THE Almoſt Chriſtian Diſcovered: Or, The Falſe Profeſſor Try'd and Caſt. Spiritual Wiſdom Improved againſt Temptation.</p>
+            <p>The Good of Early Obedience: Or, The Advantage of bearing the Yoke of Chriſt betimes.</p>
+            <p>Excellency of Unity: A Sermon Preached before the Miniſters of the Congrega<g ref="char:EOLhyphen"/>tional and <hi>Presbyterian</hi> Perſwaſion.</p>
+            <p>There is newly Re-printed Two ſcarce Books, one, A Diſcourſe of the Foun<g ref="char:EOLhyphen"/>tain of Life; the other, A Treatiſe of the Soul of Man, both by the Reverend Mr, <hi>John Flavel.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>BOOKS Printed for, and Sold by <hi>John Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultry.</hi>
+            </head>
+            <p>MR. <hi>Buxter</hi>'s Life, publiſhed by Mr. <hi>Silveſter,</hi> Folio.</p>
+            <p>Mr. <hi>Showers</hi> Sermon, Preached to the Societies for Reformation of Man<g ref="char:EOLhyphen"/>ners, <hi>Nov. 15th.</hi> 1697. Octavo.</p>
+            <p>Mr. <hi>Woodhouſes</hi> Sermon to the ſame Societies, Octavo.</p>
+            <p>Mr. <hi>Addys</hi> Stenographia: Or, The Art of Short-Writing, compleated in a far more Compendious Way than any yet extant, <hi>&amp;c.</hi> In which Character is alſo Printed the whole Bible, by Mr. <hi>Addy.</hi>
+            </p>
+            <p>
+               <hi>Cambridge</hi> Concordance, in Folio.</p>
+            <pb facs="tcp:95534:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
